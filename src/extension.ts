@@ -1,4 +1,4 @@
-import * as vscode from "vscode";
+import * as vscode from 'vscode';
 
 const decorationType = vscode.window.createTextEditorDecorationType({
   backgroundColor: "green",
